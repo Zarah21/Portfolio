@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ANDRIE MATARO | Portfolio</title>
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         html {
@@ -137,12 +138,12 @@
             <h2>Projects</h2>
             <div class="project-list">
                 <div class="project interactive-card">
-                    <img src="assets/images/project1.jpg" alt="Project 1" class="project-img">
+                    <img src="assets/images/webmdr.png" alt="Project 1" class="project-img">
                     <h3>Project One</h3>
-                    <p>Short description of project one. <br><a href="#">View Details</a></p>
+                    <p>Short description of project one. <br><a href="https://mdrrmotabon.66ghz.com/homepage.php">View Details</a></p>
                 </div>
                 <div class="project interactive-card">
-                    <img src="assets/images/project2.jpg" alt="Project 2" class="project-img">
+                    <img src="assets/images/project2.png" alt="Project 2" class="project-img">
                     <h3>Project Two</h3>
                     <p>Short description of project two. <br><a href="#">View Details</a></p>
                 </div>
